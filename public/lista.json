@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Napolitana",
+        "price": 5950,
+        "image": "https://solopizza.pro/wp-content/uploads/2022/04/receta-pizza-napolitana.jpg",
+        "image_500": "https://solopizza.pro/wp-content/uploads/2022/04/receta-pizza-napolitana.jpg",
+        "image_100": "https://solopizza.pro/wp-content/uploads/2022/04/receta-pizza-napolitana.jpg",
+        "ingredients": [
+            "Mozarella",
+            "Tomate",
+            "Jamón",
+            "Oregano"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pizza Española",
+        "price": 7250,
+        "image": "https://locosxlaparrilla.com/wp-content/uploads/2015/02/Receta-recetas-locos-x-la-parrilla-locosxlaparrilla-receta-pizza-espa%C3%B1ola-pizza-espa%C3%B1ola-pizza.jpg",
+        "image_500": "https://locosxlaparrilla.com/wp-content/uploads/2015/02/Receta-recetas-locos-x-la-parrilla-locosxlaparrilla-receta-pizza-espa%C3%B1ola-pizza-espa%C3%B1ola-pizza.jpg",
+        "image_100": "https://locosxlaparrilla.com/wp-content/uploads/2015/02/Receta-recetas-locos-x-la-parrilla-locosxlaparrilla-receta-pizza-espa%C3%B1ola-pizza-espa%C3%B1ola-pizza.jpg",
+        "ingredients": [
+            "Mozzarella",
+            "Tomate",
+            "Jamón",
+            "Choricillo"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pizza Salame",
+        "price": 5990,
+        "image": "https://ichkocheheute.de/wp-content/uploads/2017/08/P1120510.jpg",
+        "image_500": "https://ichkocheheute.de/wp-content/uploads/2017/08/P1120510.jpg",
+        "image_100": "https://ichkocheheute.de/wp-content/uploads/2017/08/P1120510.jpg",
+        "ingredients": [
+            "Mozarella",
+            "Tomate",
+            "Salame",
+            "Oregano"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pizza Cuatro Estaciones",
+        "price": 9590,
+        "image": "https://assets.unileversolutions.com/recipes-v2/41753.jpg",
+        "image_500": "https://assets.unileversolutions.com/recipes-v2/41753.jpg",
+        "image_100": "https://assets.unileversolutions.com/recipes-v2/41753.jpg",
+        "ingredients": [
+            "Mozarella",
+            "Salame",
+            "Aceitunas",
+            "Champiñones"
+        ]
+    }
+]
